@@ -1,0 +1,35 @@
+main p span{
+    color: blue;
+    background-color: hotpink;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: 100px;
+    border: 40px;
+    padding: 30px;
+    margin: 0 auto;
+}
+main p span.dua{
+    color: chartreuse;
+    background-color: blue;
+    font-size: 30px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100px;
+    border: 40px;
+    padding: 30px;
+    margin: 0 auto;
+}
+main p span.tiga{
+    color: darkmagenta;
+}
+img{
+    display: block;
+    margin: 100px auto;
+    width: 400px;
+    height: 300px;
+}
+body{
+    background-color: darkgray;
+}
+video{
+    width: 400px;
+}
